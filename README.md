@@ -45,7 +45,7 @@ The available variables are listed in each modules's README file, along with the
 
 <details><summary>Google Cloud Platform</summary>
 
-   In developing...
+1. [Networking](https://github.com/nixys/nxs-marketplace-terraform/blob/main/Google%20Cloud%20Platform/Networking/README.md) - create resources in Network
 
 </details>
 

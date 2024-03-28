@@ -1,12 +1,6 @@
 # nxs-marketplace-terraform
 
-<div id="header" align="center">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="100"/>
-  <img src="https://onellect.ru/upload/medialibrary/1c8/1c8f8dc8bdc9162ae612292e49686439.png" width="100"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="100"/>
-  <img src="https://cloud.ru/logo-192.png" width="100"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="100"/>
-</div>
+![Terraform git](https://github.com/nixys/nxs-marketplace-terraform/assets/84950037/4a0dcbc6-ec7e-462e-824b-ce4d06e041da)
 
 ## Introduction
 This repository contains [Terraform](https://www.terraform.io/) modules for easy deployment and configures of core resources.
@@ -46,6 +40,7 @@ The available variables are listed in each modules's README file, along with the
 <details><summary>Google Cloud Platform</summary>
 
 1. [Networking](https://github.com/nixys/nxs-marketplace-terraform/blob/main/Google%20Cloud%20Platform/Networking/README.md) - create resources in Network
+2. [Compute-Engine](https://github.com/nixys/nxs-marketplace-terraform/blob/main/Google%20Cloud%20Platform/Compute-Engine/README.md) - create resources in Compute
 
 </details>
 

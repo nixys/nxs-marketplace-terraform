@@ -41,6 +41,7 @@ The available variables are listed in each modules's README file, along with the
 
 1. [Networking](https://github.com/nixys/nxs-marketplace-terraform/blob/main/Google%20Cloud%20Platform/Networking/README.md) - create resources in Network
 2. [Compute-Engine](https://github.com/nixys/nxs-marketplace-terraform/blob/main/Google%20Cloud%20Platform/Compute-Engine/README.md) - create resources in Compute
+3. [SQL](https://github.com/nixys/nxs-marketplace-terraform/blob/main/Google%20Cloud%20Platform/SQL/README.md) - create resources in SQL
 
 </details>
 

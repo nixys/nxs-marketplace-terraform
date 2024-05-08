@@ -58,13 +58,14 @@ The available variables are listed in each modules's README file, along with the
 
 <details><summary>Yandex Cloud</summary>
 
-   1. [VPC](https://github.com/nixys/nxs-marketplace-terraform/blob/main/YandexCloud/VPC/README.md) - create resources in Virtual Private Cloud
-   2. [Compute](https://github.com/nixys/nxs-marketplace-terraform/blob/main/YandexCloud/Compute/README.md) - create resources in Compute Cloud
-   3. [Managed-kubernetes](https://github.com/nixys/nxs-marketplace-terraform/blob/main/YandexCloud/Managed-kubernetes/README.md) - create resources in Managed Service for Kubernetes
-   4. [Managed-mysql](https://github.com/nixys/nxs-marketplace-terraform/blob/main/YandexCloud/Managed-mysql/README.md) - create resources in Managed Service for MySQL
-   5. [Managed-postgresql](https://github.com/nixys/nxs-marketplace-terraform/blob/main/YandexCloud/Managed-postgresql/README.md) - create resources in Managed Service for PostgreSQL
-   6. [Network-load-balancer](https://github.com/nixys/nxs-marketplace-terraform/blob/main/YandexCloud/Network-load-balancer/README.md) - create resources in Network Load Balancer
-   7. [Storage](https://github.com/nixys/nxs-marketplace-terraform/blob/main/YandexCloud/Storage/README.md) - create resources in Object Storage
+1. [VPC](https://github.com/nixys/nxs-marketplace-terraform/blob/main/YandexCloud/VPC/README.md) - create resources in Virtual Private Cloud
+2. [Compute](https://github.com/nixys/nxs-marketplace-terraform/blob/main/YandexCloud/Compute/README.md) - create resources in Compute Cloud
+3. [Managed-kubernetes](https://github.com/nixys/nxs-marketplace-terraform/blob/main/YandexCloud/Managed-kubernetes/README.md) - create resources in Managed Service for Kubernetes
+4. [Managed-mysql](https://github.com/nixys/nxs-marketplace-terraform/blob/main/YandexCloud/Managed-mysql/README.md) - create resources in Managed Service for MySQL
+5. [Managed-postgresql](https://github.com/nixys/nxs-marketplace-terraform/blob/main/YandexCloud/Managed-postgresql/README.md) - create resources in Managed Service for PostgreSQL
+6. [Network-load-balancer](https://github.com/nixys/nxs-marketplace-terraform/blob/main/YandexCloud/Network-load-balancer/README.md) - create resources in Network Load Balancer
+7. [Storage](https://github.com/nixys/nxs-marketplace-terraform/blob/main/YandexCloud/Storage/README.md) - create resources in Object Storage
+8. [Managed-opensearch](https://github.com/nixys/nxs-marketplace-terraform/blob/main/YandexCloud/Managed-opensearch/README.md) - create resources in Managed Service for OpenSearch
 
 </details>
 

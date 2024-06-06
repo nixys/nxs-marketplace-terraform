@@ -53,6 +53,7 @@ The available variables are listed in each modules's README file, along with the
 3. [Computing](https://github.com/nixys/nxs-marketplace-terraform/blob/main/SberCloud/Computing/README.md) - create resources in Computing
 4. [Database](https://github.com/nixys/nxs-marketplace-terraform/blob/main/SberCloud/Database/README.md) - create resources in Database
 5. [Storage](https://github.com/nixys/nxs-marketplace-terraform/blob/main/SberCloud/Storage/README.md) - create resources in Storage
+6. [Application](https://github.com/nixys/nxs-marketplace-terraform/blob/main/SberCloud/Application/README.md) - create resources in Application
 
 </details>
 
@@ -75,7 +76,6 @@ The available variables are listed in each modules's README file, along with the
 Following features are already in backlog for our development team and will be released soon:
 
 * AWS (modules: VPC, EC2, EKS)
-* GCP (modules: VPC, Compute Engine, GKE)
 
 ## Feedback
 

@@ -68,6 +68,7 @@ The available variables are listed in each modules's README file, along with the
 7. [Storage](https://github.com/nixys/nxs-marketplace-terraform/blob/main/YandexCloud/Storage/README.md) - create resources in Object Storage
 8. [Managed-opensearch](https://github.com/nixys/nxs-marketplace-terraform/blob/main/YandexCloud/Managed-opensearch/README.md) - create resources in Managed Service for OpenSearch
 9. [Managed-redis](https://github.com/nixys/nxs-marketplace-terraform/blob/main/YandexCloud/Managed-redis/README.md) - create resources in Managed Service for Redis
+10. [Managed-clickhouse](https://github.com/nixys/nxs-marketplace-terraform/blob/main/YandexCloud/Managed-clickhouse/README.md) - create resources in Managed Service for ClickHouse
 
 </details>
 

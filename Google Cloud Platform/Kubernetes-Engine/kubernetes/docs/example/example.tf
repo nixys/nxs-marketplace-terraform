@@ -22,7 +22,7 @@ data "terraform_remote_state" "vpc" {
 }
 
 module "gke" {
-  source = "github.com/nixys/nxs-marketplace-terraform/Google Cloud Platform/Kubernetes/kubernetes"
+  source = "github.com/nixys/nxs-marketplace-terraform/Google Cloud Platform/Kubernetes-Engine/kubernetes"
 
   clusters = {
     name-your-cluster-1 = {

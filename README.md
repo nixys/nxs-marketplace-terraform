@@ -33,7 +33,7 @@ The available variables are listed in each modules's README file, along with the
 
 <details><summary>Amazon Web Services</summary>
 
-   In developing...
+1. [VPC](https://github.com/nixys/nxs-marketplace-terraform/blob/main/Amazon%20Web%20Services/VPC/README.md) - create resources in VPC
 
 </details>
 
